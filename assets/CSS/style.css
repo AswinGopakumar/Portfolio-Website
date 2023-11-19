@@ -198,8 +198,9 @@ nav ul li a:hover::after {
 
 .exp-container {
     display: flex;
-    /* gap: 10%; */
-    justify-content: space-around;
+    margin-left: 12%;
+    /* justify-content: space-around; */
+    gap: 50px;
     margin-top: 10%;
 
 }
