@@ -246,7 +246,7 @@ nav ul li a:hover::after {
 #skills {
     height: 100vh;
     z-index: 2;
-    background-image: url("/assets/images/svg/stacked-waves-haikei.svg");
+    background-image: url("../images/svg/stacked-waves-haikei.svg");
     background-repeat: no-repeat;
     background-size: 100%; 
 
